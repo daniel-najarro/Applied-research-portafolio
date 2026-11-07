@@ -41,7 +41,7 @@ The following links point to public research outputs, reports, or publications a
 | **Multidimensional Poverty and Access to Water and Sanitation** (*Reducción en la pobreza multidimensional, pero menor acceso a agua y desagüe*) | 2026 | ComexPerú; socioeconomic and geographic disparities in access to essential services | [ComexPerú analysis](https://comexperu.org.pe/articulo/reduccion-en-la-pobreza-multidimensional-pero-menor-acceso-a-agua-y-desague) |
 | **Multidimensional Poverty Dashboard** (*Dashboard de Pobreza Multidimensional*) | Public dashboard | ComexPerú; interactive visualization of multidimensional poverty indicators and socioeconomic deprivation in Peru | [Interactive dashboard](https://www.comexperu.org.pe/dashboard/pobreza-multidimensional) |
 
-> **Attribution note:** Please confirm my precise authorship or analytical role in each institutional publication before citing it as an individual contribution. These links are included as relevant public outputs, not as claims that I solely authored them.
+> **Authorship and Contributions:** I was responsible for the analytical content, research and elaboration of all the mentioned publications.
 
 ## Selected data projects
 
